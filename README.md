@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujitha J</h1>
 <h3 align="center">A passionate Full Stack Developer from Chennai</h3>
+<img alt="developer" align="right" src="ig.gif" alt="GIF" width="300"/>
 
 - 🌱 I’m currently learning **Backend Development**
 
